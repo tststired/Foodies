@@ -1,0 +1,48 @@
+z5248223 Runyao Wang
+
+week 1
+Set up groupwork environment with MS Teams
+Decided the topic of the project
+
+week 2
+Created 3 sprint structure and decided what to do in sprint 1
+Started working on proposal and came up with some user stories and novel functionalities
+
+week 3
+Worked on system architecture part of proposal
+Watched some tutorial about flask and sqlalchemy
+
+week 4
+Set up work environment (Lubuntu on VMware)
+Watched more related tutorial 
+
+week 5
+Worked with Jiachen to implement the authentication functions
+Project demo 1
+Retrospective meeting to distribute tasks for sprint 2.
+Discussed with Jason to add ids for models in the database schema 
+
+week 6
+Implemented functions to show and edit the user's profile after login.
+Fixed some authentication code to make it work with frontend.
+
+week 7
+Subscription and newsfeed functions are completed
+Bug fixes
+
+week 8 
+Implemented list_user_recipes
+Broke and reinstalled Node.js
+Worked with Patten to fix and run the current codes with frontend
+Bug fixes 
+
+week 9 
+Create test structure
+Add authentication tests
+Bug fixes with tests
+
+week 10 
+Add tests for all APIs
+Bug fixes with tests
+Prepare for demo
+Complete final report

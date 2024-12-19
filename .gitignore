@@ -1,0 +1,9 @@
+venv/
+backend/__pycache__/*.pyc
+instance/octupus_test.db 
+instance/test.db
+backend/*.pyc
+.pytest_cache/
+.vscode/
+__pycache__/
+tests/*.pyc

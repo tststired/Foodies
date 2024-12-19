@@ -1,0 +1,52 @@
+z5257609 
+
+Week1
+becamed the scrum master & created jira project
+decided to work on project 1
+
+Week2
+created sprints (three sprint structure) on jira.
+meeting on tuesday - discussed whats need to be get started before friday
+- proposal
+- research on 2 similar systems 
+- user story on jira
+- come up with 8 functionalities including 2 novelty functionalities
+
+Week3
+meeting on tuesday - discussed what to do to meet proposal deadline
+- Decided on novel objectives
+worked on flow diagrams, UI and user stories.
+assigning stories points and writing acceptance criteria for user stories
+
+Week4
+installed Lubuntu VM
+setup environment for react application
+late start on sprint one becasue having to figure out a lot of things
+learning the basics of react by watching youtube tutorials
+starting to build the navigation bar on the home page
+
+Week5
+Complete most of home page, login page, register page.
+Started on profile page.
+Project demo
+Retrospective meeting
+distributed tasks for sprint 2 and reallocated task for sprint 1
+
+Week6
+team worked together in meeting to make login and register work.
+started on the add recipe page, recipe page and edit profile page.
+
+Week7
+worked on edit profile page, recipe page.
+
+Week8
+worked on other's profile page, add recipe page.
+team worked together to debug newfeed, edit profile and list user recipe function and made it work.
+demo b
+fixed some major bugs in the tutorial with the help of danny.
+
+Week 9
+mostly working on improving ui and catching up sprint one and sprint two features.
+
+Week 10
+worked on comment, reward. Polish the final product. All objectives working.

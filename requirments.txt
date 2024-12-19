@@ -1,0 +1,5 @@
+SQLAlchemy==1.4.41
+Flask-SQLAlchemy==3.0.1
+jsonify==0.5
+pytest==7.2.0   
+PyJWT==1.7.1

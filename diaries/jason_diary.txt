@@ -1,0 +1,45 @@
+z5167683 Jason Tse
+
+week 1
+found groupmates yay time to work
+
+week 2
+came up with the project proposal and ideas on how to improve existing implementations 
+
+week 3
+learning how to use sqlalchemy, refreshing comp3331 info, creating database
+
+week 4
+remade database again, some incorrect relations and cascading problems
+wrote some routes and functions
+image storage research
+
+week 5
+setup some more of database again, more issues with  columns and relations
+learning about sqlalchemy more and more
+wrote some more routes for the api
+mostly recipe related
+
+week 6
+figured out database finally not changing it anymore hopefully
+wrote some more routes for recipes
+finished up on images storage, researching how to do video
+
+week 7
+debugging functions and learn how to write some tests for unittesting
+
+week 8 
+more database changes, as usual, sqlalchemy starting to become very familiar
+figuring out the best way to store comments and ratings
+redoing deprecated code in sprint 2 
+
+week 9 
+redid database again, this time with more tables and less crampy relations
+comment tree recursion finished
+redoing deprecated code in sprint 1 
+image storage works
+
+week 10 
+finishing remaining tasks for sprint 3 
+finished up most of the core functions
+last remaainign function is the recipe recommendation system

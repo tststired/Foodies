@@ -1,0 +1,42 @@
+Week1
+
+The communication method (Microsoft teams) has been determined, and the project (recipe recommendation) we want to do has been selected
+
+Week2
+
+I learn how to start a project because there is no such project before.
+Add sprint and user story on Jira
+
+Week3
+
+Make the proposal for the project
+Determine the language used by the frontend, backend, and database
+
+Week4
+
+Download and install the virtual system Lubuntu, and start making auth_ logout, auth_ register, auth_ The backend part of details
+
+Week5
+
+Continue to complete functions, Project demo 1, Retrospective meeting
+Start to understand other functions that need to be done
+
+Week 6
+
+Get to know list_ recipe_ Summaries and search_ The completion method of recipes and the connection method between database and backend
+
+Week 7
+
+Completed list_ recipe_ summaries， When users browse the news feed or search result list, it going to shows a summary of each recipe that includes the name and thumbnail
+
+Week8
+
+There are some problems in communication, modify search_ The code of recipes becomes search by tag first,
+Any recipe with a tag in the query tag list would be added to the result. If no recipe is found during the search, the recipe name / would be used to find recipes with partial match. That is if as long as the query name is a substring of any recipe name, the recipe is considered a match.
+
+
+Week9
+Start reporting, and write a final report according to the functions and project objects of this project
+
+Week10
+Continue to make the report and submit it before 9 pm on November 18
